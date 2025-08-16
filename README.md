@@ -5,7 +5,7 @@ This project demonstrates CRUD operations with structured routes, controllers, a
 
 ---
 
-## 🚀 Features
+##  Features
 - Create a new user
 - Get all users
 - Update user details
@@ -16,7 +16,7 @@ This project demonstrates CRUD operations with structured routes, controllers, a
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Node.js** (Express.js)  
 - **SQLite3** (Lightweight relational database)  
@@ -25,7 +25,7 @@ This project demonstrates CRUD operations with structured routes, controllers, a
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 project-root/
 │── app.js # Main application file
@@ -44,7 +44,7 @@ project-root/
 
 ---
 
-## ⚙️ Installation & Setup
+##  Installation & Setup
 
 1. Clone the repository:
    ```bash
